@@ -7,8 +7,8 @@ phpinfo();
 
 
 //Task 2
-define('site_name','mySiteName');
-echo Site_Name;
+define('Website_Title','My PHP Website');
+echo Website_Title;
 
 
 
